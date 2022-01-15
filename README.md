@@ -1,1 +1,1 @@
-# So_long42 (game)
+# So_long42 (2d game)
